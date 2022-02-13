@@ -71,6 +71,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
+
     - role: Administrador de sistemas.
       time: Agosto 2021 - Octubre 2021
       company: Agencia Europea de Medicamentos
@@ -78,10 +79,10 @@ experiences:
         Administrador de sistemas, para el equipo de servidores y almacenamiento de Nivel 3 (L3SST).
         El proyecto principal en infraestructuras, fue la creacion del centro de datos definido por software (SDDC) 
         para clinicas en la agencia europea de medicamentos(EMA).
+          - Bullet point
+          - Bullet point
+          - Bullet point
           
-          - Bullet point
-          - Bullet point
-          - Bullet point
     - role: Administrador de sistemas.
       time: Abril 2021 - agosto 2021
       company: Airbus
@@ -94,11 +95,12 @@ experiences:
           - Bullet point
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
+    
+    - role: Técnico de sistemas L3.
+      time: julio 2020 - diciembre 2020
       company: Amazon, London
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        Técnico de infraestructura de respaldo y almacenamiento de TI
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
