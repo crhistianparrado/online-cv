@@ -84,6 +84,9 @@ experiences:
           
          
           - Bullet point
+          - Bullet point
+          - Bullet point
+          
     - role: Administrador de sistemas.
       time: Abril 2021 - agosto 2021
       company: Airbus
@@ -97,15 +100,28 @@ experiences:
           - Bullet point
           - Bullet point
     
-    - role: Técnico de sistemas L3.
+     - role: Técnico de sistemas L3.
       time: julio 2020 - diciembre 2020
-      company: Amazon, London
+      company: Cibernos Global Cloud Services.
       details: |
         Técnico de infraestructura de respaldo y almacenamiento de TI
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Mis principales funciones se centraron, en el soporte y configuracion de servidores y cabinas de almacenamiento,
+        para multicliente en nuestro propio CPD (Data Center) asi como de configuración y soporte en remoto para CPD de 
+        cliente.
+        
+          - Bullet point
+          - Bullet point
+          - Bullet point
+          
+    - role: Técnico de sistemas L3.
+      time: julio 2020 - diciembre 2020
+      company: Cibernos Global Cloud Services.
+      details: |
+        Técnico de infraestructura de respaldo y almacenamiento de TI
+        Mis principales funciones se centraron, en el soporte y configuracion de servidores y cabinas de almacenamiento,
+        para multicliente en nuestro propio CPD (Data Center) asi como de configuración y soporte en remoto para CPD de 
+        cliente.
+        
           - Bullet point
           - Bullet point
           - Bullet point
