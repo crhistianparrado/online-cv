@@ -144,17 +144,17 @@ skills:
     title: Habilidades y competencias.
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Administración de Windows Server
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Administración de plataformas virtualizadas
+        level: 70%
 
-      - name: Administración de windows 
-        level: 98%
+      - name: Administración de Linux
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Administración de almacenamiento y recuperación de la información
+        level: 65%
 
       - name: Ruby on Rails
         level: 85%
