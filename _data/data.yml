@@ -37,11 +37,11 @@ sidebar:
       - item: Nuevas tecnologías
         link: https://www.xataka.com/tag/tecnologia
 
-      - item: Snowboarding
+      - item: Trabajo en equipo
         link:
 
-      - item: Cooking
-        link:
+      - item: Senderismo
+        link: https://es.wikiloc.com/rutas/senderismo/espana/comunidad-de-madrid
 
 career-profile:
     title: Perfil Profesional.
@@ -71,19 +71,12 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Administador de sistemas.
+      time: Agosto 2021 - Octubre 2021
+      company: Agencia Europea de Medicamentos
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Administrador de sistemas, para el equipo de servidores y almacenamiento de Nivel 3 (L3SST).
+        El proyecto principal en infraestructuras, fue la creación del centro de datos definido por software (SDDC) para clínicas en la agencia europea de medicamentos (EMA).
           - Bullet point
           - Bullet point
     - role: Senior Software Engineer
