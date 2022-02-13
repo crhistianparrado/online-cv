@@ -146,14 +146,14 @@ skills:
       - name: Administración de almacenamiento y recuperación de la información
         level: 65%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Gestión de identidades, seguridad de accesos
+        level: 75%
 
-      - name: Sketch & Photoshop
+      - name: Implicación en gestión de proyectos, migraciones, infraestructuras y CPD´s
         level: 60%
         
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Soporte helpdesk, gestión servidesk y area de workplace CAU y Sistemas
+        level: 100%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
