@@ -72,63 +72,7 @@ education:
           - Bullet point
 experiences:
 
-    - role: Administador de sistemas.
-
-
-
-    - role: Administrador de sistemas.
-      time: Agosto 2021 - Octubre 2021
-      company: Agencia Europea de Medicamentos
-      details: |
-        Administrador de sistemas, para el equipo de servidores y almacenamiento de Nivel 3 (L3SST).
-        El proyecto principal en infraestructuras, fue la creacion del centro de datos definido por software (SDDC) 
-        para clinicas en la agencia europea de medicamentos (EMA).
-         
-          
-          
-         
-          - Bullet point
-          - Bullet point
-          - Bullet point
-          
-    - role: Administrador de sistemas.
-      time: Abril 2021 - agosto 2021
-      company: Airbus
-      details: |
-        Administrador de sistemas para el equipo de Identity and Access Management (IAM).
-        Soporte de todas las tareas, peticiones e incidencias en el ambito del core de seguridad de indentidades.
-        Creacion de infraestructuras y servicios dentro de los flujos y procesos documentados por los niveles de
-        aplicaciones, asi como siguiendo la documentacion y directrices de los PMP y service delivery managers.
-   
-          - Bullet point
-          - Bullet point
-          - Bullet point
     
-     - role: Administrador de Sistemas (ITOps).
-      time: Diciembre 2020 - Abril 2021
-      company: Mercedes Benz Iberia.
-      details: |
-        Técnico de infraestructura de respaldo y almacenamiento de TI
-        Mis principales funciones se centraron, en el soporte y configuracion de servidores y cabinas de almacenamiento,
-        para multicliente en nuestro propio CPD (Data Center) asi como de configuración y soporte en remoto para CPD de 
-        cliente.
-        
-          - Bullet point
-          - Bullet point
-          - Bullet point
-          
-    - role: Técnico de sistemas L3.
-      time: julio 2020 - diciembre 2020
-      company: Cibernos Global Cloud Services.
-      details: |
-        Técnico de infraestructura de respaldo y almacenamiento de TI
-        Mis principales funciones se centraron, en el soporte y configuracion de servidores y cabinas de almacenamiento,
-        para multicliente en nuestro propio CPD (Data Center) asi como de configuración y soporte en remoto para CPD de 
-        cliente.
-        
-          - Bullet point
-          - Bullet point
-          - Bullet point
 
 
 projects:
