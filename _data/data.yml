@@ -48,9 +48,9 @@ career-profile:
     summary: |
       Técnico, operador y administrador de TI
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: CFGS Desarrollo de Aplicaciones Web.
+      university: UOC
+      time: 2017 - Sin terminar.
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -59,9 +59,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: (SGP) Técnico de instalaciones eléctricas BT.
+      university: Caritas
+      time: 2002
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
