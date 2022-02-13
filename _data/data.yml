@@ -114,8 +114,9 @@ experiences:
         Trabajando bajo metodologías Ágiles e ITIL.
         
         Como proyectos principales la asignación de evaluaciones a petición (Azure On-Demand Assessments) y la evaluación de Azure Log Analytics y tareas propias de la migración de McAffe a Crowdstrike. 
-          - Bullet point
-          - Bullet point   
+          - Proyecto internacional, idiomas inglés y español, herramientas más utilizadas:
+          - Microsoft Technologies: Microsoft Server Manager (2008, 2012, 2016, 2019), AD (AdminNET), MECM - SCCM, SCOM, SQL Server Management Studio.
+          - SUSE Linux Enterprise Server 12.3, PingID, Qualys VM Reports   
     - role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
