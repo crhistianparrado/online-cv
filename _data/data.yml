@@ -76,16 +76,17 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Administrador de sistemas.
+      time: Agosto de 2021 - Octubre de 2021
+      company: Agencia Europea de Medicamentos
       details: 
       •	Administrador de sistemas, en el equipo de servidores y almacenamiento de Nivel 3 (L3SST).
-       El proyecto principal en infraestructuras fue la creacion del centro de datos definido por software (SDDC) para clinicas en la agencia europea de medicamentos.
+       El proyecto principal en infraestructuras fue la creacion del centro de datos definido por software (SDDC) 
+       para clinicas en la agencia europea de medicamentos.
           - Bullet point
           - Bullet point
     - role: Senior Software Engineer
-      time: Agosto de 2021 - Octubre de 2021.
+      time: Agosto de 2021 - Octubre de 2021
       company: Google, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
