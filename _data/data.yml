@@ -107,11 +107,13 @@ experiences:
       time:  Diciembre 2020 - Abril 2021
       company: Mercedes Benz Iberia
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Administrador de sistemas dentro del equipo de Servicios de Infraestructura y Operaciones (I&O) de TI. (ITOps)
+        
+        Asistir como miembro del equipo de Infraestructuras y operaciones de Iberia a las reuniones semanales del comité asesor de cambios (CAB) verificando e informando de las peticiones de cambio de alto riesgo o impacto y solicitando información o dándola al responsable de cambios de Mercedes Benz sur de Europa y a los equipos de trabajo.
+       
+        Trabajando bajo metodologías Ágiles e ITIL.
+        
+        Como proyectos principales la asignación de evaluaciones a petición (Azure On-Demand Assessments) y la evaluación de Azure Log Analytics y tareas propias de la migración de McAffe a Crowdstrike. 
           - Bullet point
           - Bullet point   
     - role: Lead Developer
