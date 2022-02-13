@@ -80,8 +80,8 @@ experiences:
         El proyecto principal en el que participe fue para infraestructuras, En la creación del centro de datos definido por software (SDDC) para clínicas en la agencia europea de medicamentos (EMA).
         
         También dando soporte a peticiones e incidencias de almacenamiento y recuperación de datos con la herramienta commvault principalmente.
-          - Proyecto internacional, idioma ingles, herramientas más utilizadas: 
-          - Commvaultv11 (CommCell Console, Commvault Command Center)
+          - Proyecto internacional, idioma inglés, herramientas más utilizadas: 
+          - Commvaultv11 (CommCell Console, Commvault Command Center) Monitorización de alarmas de commvault, creación de informes.
           - DELLEMC: Unisphere PowerMax v9.
           - WMware: vSphere, vCenter, ESXi.
           - Red Hat (Several versions, Satellite 6) GNU Bash.
@@ -96,8 +96,13 @@ experiences:
         
         Creación de infraestructuras y servicios dentro de los flujos y procesos documentados por los niveles de aplicaciones, así como siguiendo la documentación y directrices de los PMP y service delivery managers.
         
-          - Bullet point
-          - Bullet point
+        Monitorización de alarmas y eventos de seguridad.
+        
+          - Proyecto internacional, idiomas inglés y español, herramientas más utilizadas:
+          - Microsoft Technologies: IIS, SQL Server, Active Directory, SCOM, Microsoft Server Manager (2008, 2012, 2016, 2019).
+          - Red Hat, BMC Patrol, BMC Control-M 
+          - Otras herramientas:
+          - IAM Data Service Platform, LDAP, Onelogin, Ping Federate.
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
