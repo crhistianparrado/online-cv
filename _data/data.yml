@@ -100,9 +100,9 @@ experiences:
           - Bullet point
           - Bullet point
     
-     - role: Técnico de sistemas L3.
-      time: julio 2020 - diciembre 2020
-      company: Cibernos Global Cloud Services.
+     - role: Administrador de Sistemas (ITOps).
+      time: Diciembre 2020 - Abril 2021
+      company: Mercedes Benz Iberia.
       details: |
         Técnico de infraestructura de respaldo y almacenamiento de TI
         Mis principales funciones se centraron, en el soporte y configuracion de servidores y cabinas de almacenamiento,
@@ -125,6 +125,8 @@ experiences:
           - Bullet point
           - Bullet point
           - Bullet point
+
+
 projects:
     title: Projects
     intro: >
