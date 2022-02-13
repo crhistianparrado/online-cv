@@ -86,15 +86,12 @@ experiences:
           - WMware: vSphere, vCenter, ESXi.
           - Red Hat (Several versions, Satellite 6) GNU Bash.
           - Microsoft Server Manager (2008, 2012, 2016, 2019) PowerShell.
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Administrador de sistemas.
+      time: Abril 2021 - agosto 2021
+      company: Airbus
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Administrador de sistemas para el equipo de Identity and Access Management (IAM). Soporte de todas las tareas, peticiones e incidencias en el ámbito del core de seguridad de identidades. Creación de infraestructuras y servicios dentro de los flujos y procesos documentados por los niveles de aplicaciones, así como siguiendo la documentación y directrices de los PMP y service delivery managers.
+        
           - Bullet point
           - Bullet point
     - role: UI Developer
