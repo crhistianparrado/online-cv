@@ -116,22 +116,23 @@ experiences:
         Como proyectos principales la asignación de evaluaciones a petición (Azure On-Demand Assessments) y la evaluación de Azure Log Analytics y tareas propias de la migración de McAffe a Crowdstrike. 
           - Proyecto internacional, idiomas inglés y español, herramientas más utilizadas:
           - Microsoft Technologies: Microsoft Server Manager (2008, 2012, 2016, 2019), AD (AdminNET), MECM - SCCM, SCOM, SQL Server Management Studio.
-          - SUSE Linux Enterprise Server 12.3, PingID, Qualys VM Reports   
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+          - SUSE Linux Enterprise Server 12.3, PingID, Qualys VM Reports.   
+    - role: Técnico de sistemas L3.
+      time: julio 2020 - diciembre 2020
+      company: Cibernos Global Cloud Services.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Técnico de infraestructura de respaldo y almacenamiento de TI.
+        
+        Mis principales funciones se centraron, en el soporte y configuración de servidores y cabinas de almacenamiento, para multicliente en nuestro propio CPD (Data Center) así como de configuración y soporte en remoto para CPD de cliente.
+        
+        Trabajando con diferentes tecnologías de almacenamiento (DAS, NAS y SAN) según los requerimientos del cliente.
+          - Proyecto internacional, idiomas inglés y español, herramientas más utilizadas:
+          - Microsoft Technologies: Microsoft Server Manager (2008, 2012, 2016, 2019).
+          - WMware: vSphere, vCenter, ESXi.
+          - CommVault V: 11, Veeam Backup and Replication V: 9.5, Veeam Backup for Microsoft Office 365 V: 4.0.
+          - Cabinas de almacenamiento: NetApp (FAS8200, FAS2600) / Ontap 9.3, Pure Storage FA-X50R2, FA-M20R2 / Purity/FA, Huawei OceanStor 2600 V3 Storage System, Dell EMC VNX 5200.
+          - Dispositivos de red: Fortinet UTM, Fortigate Firewall Policies, Switches Brocade: 6510 FCS, 5100, 300, NX220 8G FC(NPIV).
+          - Herramientas de monitorización: ICINGA2 y Grafana.
     - role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
