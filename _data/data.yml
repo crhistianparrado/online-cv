@@ -146,7 +146,7 @@ experiences:
           - Proyecto internacional, idiomas inglés y español, herramientas más utilizadas:
           - Microsoft Technologies: Active Directory, Outlook/Exchage/OWA, System Center 2012 R2 Virtual Machine Manager (SCVMM), PowerShell.
           - Otras herramientas:
-          - Cisco, AVAYA (GEDI, AIC), IBM Tivoli Storage Manager (TSM), McAfee ePolicy Orchestrator, HP StorageWorks D2D Backup System, RSA SecureID, AIX, LDAP, Oracle PL/SQL, SQLPLUS Utility, Linux Red Hat.
+          - Cisco, AVAYA VoIP (GEDI, AIC), IBM Tivoli Storage Manager (TSM), McAfee ePolicy Orchestrator, HP StorageWorks D2D Backup System, RSA SecureID, AIX, LDAP, Oracle PL/SQL, SQLPLUS Utility, Linux Red Hat.
     - role: Especialista en soporte técnico de sistemas.
       time: Octubre 2017 - Agosto 2018
       company: Hoffmann-La Roche
@@ -154,8 +154,9 @@ experiences:
         Como miembro el equipo del centro global de operaciones (GOC) mis funciones fueron dar soporte y mantenimiento a toda la infraestructura de la empresa, con herramientas de motorización, aplicaciones, sistemas operativos, redes, voz por IP, visualización, almacenamiento y restauración, tareas y peticiones de usuarios propietarios de aplicaciones, grupos, proveedores, etc.
 
         También dentro del equipo de migraciones estuve encargado de la migración de equipos de entornos físicos a virtuales (P2V) revisión y puesta en funcionamiento, parcheos de seguridad y actualizaciones de los mismos.
-          - Bullet point
-          - Bullet point
+          - Proyecto internacional, idiomas inglés y español, herramientas más utilizadas:
+          - Microsoft Technologies: Microsoft Server Manager (2008, 2012, 2016), SCCM.
+          - Otras tecnologías y herramientas: Red Hat, Cisco (VoIP-CUCM, Switch Router), VMware vCenter Converter, BlueCat/Proteus (IPAM), HP Proliant Integrated Lights-Out(ILO), Symantec Veritas Netbackup 7.7 8.1, OpsCenter, LDAP, NetIQ AppManager Control Centre.  
     - role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
