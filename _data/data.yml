@@ -120,7 +120,7 @@ experiences:
           - Microsoft Technologies: Microsoft Server Manager (2008, 2012, 2016, 2019), AD (AdminNET), MECM - SCCM, SCOM, SQL Server Management Studio.
           - SUSE Linux Enterprise Server 12.3, PingID, Qualys VM Reports.   
     - role: Técnico de sistemas L3.
-      time: julio 2020 - diciembre 2020
+      time: Julio 2020 - Diciembre 2020
       company: Cibernos Global Cloud Services.
       details: |
         Técnico de infraestructura de respaldo y almacenamiento de TI.
@@ -135,24 +135,19 @@ experiences:
           - Cabinas de almacenamiento: NetApp (FAS8200, FAS2600) / Ontap 9.3, Pure Storage FA-X50R2, FA-M20R2 / Purity/FA, Huawei OceanStor 2600 V3 Storage System, Dell EMC VNX 5200.
           - Dispositivos de red: Fortinet UTM, Fortigate Firewall Policies, Switches Brocade: 6510 FCS, 5100, 300, NX220 8G FC(NPIV).
           - Herramientas de monitorización: ICINGA2 y Grafana.
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Técnico de sistemas L2.
+      time:  Agosto 2020 - Diciembre 2019
+      company: ING Bank
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Encargado del soporte gestión y mantenimiento en el área de workplace de sistemas para clientes corporativos entre mis funciones se encontraban realizar tareas de alta de usuarios bajas y modificaciones en directorio activo (AD), maquetado de equipos, alta en mobile device manager (MDM), configuración del puesto de trabajo, configuración de VoIP y VLANs, creación y gestión de GPOs, Administración de listas de distribución y buzones de correo en Outlook, la creación de máquinas virtuales Hyper-V y despliegue de catálogos en Citrix Studio para máquinas de desarrolladores, en System Center Virtual Machine Manager (SCVMM), Verificación diario de consola ePO. Restauración de archivos con Tivoli y mantenimiento de cintas con HP StorageWorks D2D.
+        
+        Como Administrador de identidades y gestión de acceso, fui parte del equipo de creación del grupo SSO y se nos asignaron todas las funciones de permisos de usuarios (altas, bajas, modificaciones) así la gestión de las aplicaciones implicadas en todos los grupos de aplicaciones y accesos del banco.
+        
           - Bullet point
           - Bullet point
     - role: Lead Developer
       time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      company: 
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
