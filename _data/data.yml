@@ -176,25 +176,25 @@ experiences:
       company: Sermicro
       details: |
         Técnico de soporte informático a nivel multicliente encargado de la resolución y cumplimiento de incidencias y peticiones para usuarios finales y usuarios VIP de varias empresas entre las cuales se encuentran: Semantic Systems, Prosegur, NH-Hoteles, Grupo Vips, Abertis, Cofares and ICM.
-          - Bullet point
-          - Bullet point
-    - role: Lead Developer
-      time: 
-      company: Sermicro
+          - Proyectos a nivel nacional, herramientas más utilizadas:
+          - Microsoft Technologies: Windows OS en varias versiones (XP, 7, NT), SCCM, MDM.
+          - Otras tareas relevantes: Instalación, configuración y soporte de impresoras, scanners, teclados, etc. Soporte durante migración de dominio a EMEA y unificación del mismo, plan de escalado y documentación.
+    - role: Técnico y operador de monitorización y redes.
+      time: Diciembre 2008 - Diciembre 2009
+      company: ONO Grandes cuentas
       details: |
         
-        Técnico de soporte informático a nivel multicliente encargado de la resolución y cumplimiento de incidencias y peticiones para usuarios finales y usuarios VIP de varias empresas entre las cuales se encuentran: Semantic Systems, Prosegur, NH-Hoteles, Grupo Vips, Abertis, Cofares and ICM.
+        Técnico y operador de redes a nivel multicliente entre los cuales (Santander, Caja Madrid)
+        encargado de la resolución y cumplimiento de incidencias y peticiones asi como la revision de las alarmas y configuracion de routers-switches e investigación de los problemas como latencia, ip duplicadas, suplantación (spoofing) y otras tareas de primer nivel así como el escalado de las mismas a otros niveles o departamentos.
         
-          - Bullet point
-          - Bullet point
+          - Proyectos a nivel nacional, herramientas más utilizadas:
+          - Cisco, IBM Tivoli Netcool, SSH, RDP, THOT.
 
 
 projects:
     title: Proyectos
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Actualmente retomando lenguajes de programación principalmente Python, actualizando conocimientos de control de fuentes en GitHub.
     
 skills:
     title: Habilidades y competencias.
