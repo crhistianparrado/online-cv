@@ -156,7 +156,8 @@ experiences:
         También dentro del equipo de migraciones estuve encargado de la migración de equipos de entornos físicos a virtuales (P2V) revisión y puesta en funcionamiento, parcheos de seguridad y actualizaciones de los mismos.
           - Proyecto internacional, idiomas inglés y español, herramientas más utilizadas:
           - Microsoft Technologies: Microsoft Server Manager (2008, 2012, 2016), SCCM.
-          - Otras tecnologías y herramientas: Red Hat, Cisco (VoIP-CUCM, Switch Router), VMware vCenter Converter, BlueCat/Proteus (IPAM), HP Proliant Integrated Lights-Out(ILO), Symantec Veritas Netbackup 7.7 8.1, OpsCenter, LDAP, NetIQ AppManager Control Centre.  
+          - Otras tecnologías y herramientas: 
+          - Red Hat, Cisco (VoIP-CUCM, Switch Router), VMware vCenter Converter, BlueCat/Proteus (IPAM), HP Proliant Integrated Lights-Out(ILO), Symantec Veritas Netbackup 7.7 8.1, OpsCenter, LDAP, NetIQ AppManager Control Centre.
     - role: Lead Developer
       time: 2015 - Present
       company: Startup Hubs, San Francisco
