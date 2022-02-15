@@ -90,7 +90,7 @@ experiences:
         
         El proyecto principal en el que participe fue para infraestructuras, En la creación del centro de datos definido por software (SDDC) para clínicas en la agencia europea de medicamentos (EMA).
         
-        También dando soporte a peticiones e incidencias de almacenamiento y recuperación de datos con la herramienta commvault principalmente.
+        También dando soporte a peticiones e incidencias de almacenamiento y recuperación de datos con la herramienta Commvaultv11 principalmente.
           - Proyecto internacional, idioma inglés, herramientas más utilizadas: 
           - Commvaultv11 (CommCell Console, Commvault Command Center) Monitorización de alarmas de commvault, creación de informes.
           - DELLEMC: Unisphere PowerMax v9.
@@ -105,7 +105,7 @@ experiences:
         
         Soporte de todas las tareas, peticiones e incidencias en el ámbito del core de seguridad de identidades. 
         
-        Creación de infraestructuras y servicios dentro de los flujos y procesos documentados por los niveles de aplicaciones, así como siguiendo la documentación y directrices de los PMP y service delivery managers.
+        Creación de infraestructuras y servicios dentro de los flujos y procesos documentados por los grupos de aplicaciones, así como siguiendo la documentación y directrices de los PMP y service delivery managers.
         
         Monitorización de alarmas y eventos de seguridad.
         
@@ -161,7 +161,7 @@ experiences:
       time: Octubre 2017 - Agosto 2018
       company: Hoffmann-La Roche
       details: |
-        Como miembro el equipo del centro global de operaciones (GOC) mis funciones fueron dar soporte y mantenimiento a toda la infraestructura de la empresa, con herramientas de motorización, aplicaciones, sistemas operativos, redes, voz por IP, visualización, almacenamiento y restauración, tareas y peticiones de usuarios propietarios de aplicaciones, grupos, proveedores, etc.
+        Como miembro el equipo del centro global de operaciones (GOC) mis funciones fueron dar soporte y mantenimiento a toda la infraestructura de la empresa, con herramientas de motorización, aplicaciones, sistemas operativos, redes, voz por IP, virtualización, almacenamiento y restauración, tareas y peticiones de usuarios propietarios de aplicaciones, grupos, proveedores, etc.
 
         También dentro del equipo de migraciones estuve encargado de la migración de equipos de entornos físicos a virtuales (P2V) revisión y puesta en funcionamiento, parcheos de seguridad y actualizaciones de los mismos.
           - Proyecto internacional, idiomas inglés y español, herramientas más utilizadas:
@@ -193,8 +193,7 @@ experiences:
       company: ONO Grandes cuentas
       details: |
         
-        Técnico y operador de redes a nivel multicliente entre los cuales (Santander, Caja Madrid)
-        encargado de la resolución y cumplimiento de incidencias y peticiones asi como la revision de las alarmas y configuracion de routers-switches e investigación de los problemas como latencia, ip duplicadas, suplantación (spoofing) y otras tareas de primer nivel así como el escalado de las mismas a otros niveles o departamentos.
+        Técnico y operador de redes a nivel multicliente entre los cuales estaban los bancos Santander y Caja Madrid donde estaba encargado de la resolución y cumplimiento de incidencias y peticiones asi como la revision de las alarmas y configuracion de routers-switches (Cisco) y la investigación de los problemas como latencia, ip duplicadas, suplantación (spoofing) y otras tareas de primer nivel así como el escalado de las mismas a otros niveles o departamentos.
         
           - Proyectos a nivel nacional, herramientas más utilizadas:
           - Cisco, IBM Tivoli Netcool, SSH, RDP, THOT.
