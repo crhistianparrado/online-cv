@@ -88,12 +88,16 @@ experiences:
       details: |
         Administrador de sistemas, para el equipo de servicios de plataformas TI.
         
-        El proyecto principal es la gestión de parches y actualizaciones para compañia aseguradora.
+        El proyecto principal es la gestión de parches y actualizaciones para compañia aseguradora.        
         
-        Automatización y despliegue de aplicaciones.
+        Actualización de aplicaciones de terceros.
+        
+        Automatización y despliegue de aplicaciones.        
+        
           - Herramientas más utilizadas: 
-          - Ivanti.
-          - PowerShell.                  
+          - Microsoft Technologies: Active Directory, PowerShell, Hyper-V, Windows OS 10/11 Pro/Enterprise, Server.            
+          - Herramienta de gestión:
+          - Ivanti.              
     - role: Administador de sistemas.
       time: Agosto 2021 - Octubre 2021
       company: Agencia Europea de Medicamentos
