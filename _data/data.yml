@@ -97,7 +97,7 @@ experiences:
         Creación de informes de vulnerabilidades (CVE) identificando su tipo de impacto (CVSS) y exponiendo las propuestas proporcionadas por la Integración de soluciones del Centro de respuestas de seguridad de Microsoft (MSRC).
         
           - Herramientas más utilizadas: 
-          - Microsoft Technologies: Active Directory, PowerShell, Hyper-V, Windows OS 10/11 Pro/Enterprise, Server.            
+          - Microsoft Technologies: Active Directory, PowerShell, Hyper-V, WSUS, Windows OS 10/11 Pro/Enterprise, Server (2008, 2012, 2016, 2019), Solución de contraseñas de administrador local (LAPS).           
           - Herramienta de gestión:
           - Ivanti.              
     - role: Administador de sistemas.
