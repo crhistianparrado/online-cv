@@ -98,8 +98,10 @@ experiences:
         
           - Herramientas más utilizadas: 
           - Microsoft Technologies: Active Directory, PowerShell, Hyper-V, WSUS, Windows OS 10/11 Pro/Enterprise, Server (2008, 2012, 2016, 2019), Solución de contraseñas de administrador local (LAPS).           
-          - Herramienta de gestión:
-          - Ivanti.              
+          - Herramienta de gestión: Ivanti.
+          - Otras tecnologías y herramientas: 
+          - Entrust Identity.
+          - Latch (OTP).
     - role: Administador de sistemas.
       time: Agosto 2021 - Octubre 2021
       company: Agencia Europea de Medicamentos
