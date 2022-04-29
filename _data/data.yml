@@ -92,7 +92,9 @@ experiences:
         
         Actualización de aplicaciones de terceros.
         
-        Automatización y despliegue de aplicaciones.        
+        Automatización y despliegue de aplicaciones.
+        
+        Creación de informes de vulnerabilidades (CVE) identificando su tipo de impacto (CVSS) y exponiendo las propuestas proporcionadas por la Integración de soluciones del Centro de respuestas de seguridad de Microsoft (MSRC).
         
           - Herramientas más utilizadas: 
           - Microsoft Technologies: Active Directory, PowerShell, Hyper-V, Windows OS 10/11 Pro/Enterprise, Server.            
